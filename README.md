@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amio-thaki-jege/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Amio Thaki Jege](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amio-thaki-jege/) |
+| **Get License** | [Get a Licensing Quote for Amio Thaki Jege](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amio-thaki-jege/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2975b5f4c6c75ecadbeb111f202e4b9194277197568f99235e889c08a8b0e3e8` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

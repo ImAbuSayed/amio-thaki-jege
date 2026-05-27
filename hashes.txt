@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amio Thaki Jege
+
+This log tracks the cryptographic history and versioning for the song **Amio Thaki Jege** (amio-thaki-jege).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T00:17:38.484353 | `v1` | `2975b5f4c6c75ecadbeb111f202e4b9194277197568f99235e889c08a8b0e3e8` | `69edff7ea9755e5ce43facf83f11366cb442c53a6276031e496f2c2fff3538e4` | `2026-05-28_amio-thaki-jege-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
