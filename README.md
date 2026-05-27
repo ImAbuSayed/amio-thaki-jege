@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আমিও থাকি জেগে তোমারই আশায়
+> মাতাল করা এই রাতে, প্রেমের নেশায়
+> কাছে এসো তুমি আজ, মেলাও দুচোখ
+> আমাদের এই আদরে হারাক সব শোক
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
